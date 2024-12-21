@@ -75,8 +75,7 @@ endmodule
 
 **TRUTH TABLE**
 
-![WhatsApp Image 2024-12-03 at 1 57 46 PM](https://github.com/user-attachments/assets/e530c40d-708e-4be5-ae49-a214154a4b8d)
-
+![EX - 11](https://github.com/user-attachments/assets/53da7447-163a-47bd-b3df-bc618c9a806e)
 
 
 **RESULTS**
